@@ -13,7 +13,7 @@ Simple just open your command prompt and type "pip install requests" (make sure 
 
 
 a basic webhook code goes like this :
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 import requests 
 
 url= "enter your webhook url here" 
@@ -21,7 +21,7 @@ url= "enter your webhook url here"
 while True:
    message=input("Please enter your message: ")
    r= requests.post(url,data={'content'=message})
-═════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 This also gets the job done but I have installed more modules and made the program interactive overall
 It asks you to enter webhook url,image,name and then starts spamming.Please check it out :D
    
