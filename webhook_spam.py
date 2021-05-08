@@ -1,10 +1,9 @@
 import requests
 import colorama
 from colorama import Fore, Back, Style
-import os
+
 #imported colorama just to make the code fancier
 
-os.system('title webhook spammer~by Inferno')
 
 Creator = f"""
 Made by:
