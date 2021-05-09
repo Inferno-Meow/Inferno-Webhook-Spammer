@@ -3,7 +3,7 @@
 (FOR THOSE OF YOU WHO ARE CURIOUS, I will try to keep it as simple as possible)
 
 This is a way to send repeated text messages from a discord webhook in a particular channel ( everyone ping as well :D) 
-Discord's built in Webhooks function as an easy way to get automated messages and data updates sent to a text channel in your server.
+Discord's built in Webhooks function is an easy way to get automated messages and data updates sent to a text channel in your server.
 You can basically send pictures and videos(through url), text messages(which include simple messages,user and role mention,everyone and here ping)
 
 so basically all you need to know is the python language (and install "requests" module)
