@@ -7,11 +7,6 @@ Discord's built in Webhooks function is an easy way to get automated messages an
 You can basically send pictures and videos(through url), text messages(which include simple messages,user and role mention,everyone and here ping)
 
 so basically all you need to know is the python language (and install "requests" module)
-
-How do I install the requests module?
-Simple just open your command prompt and type "pip install requests" (make sure to check the path positioning is done correctly and your pip install doesn't create any problem)
-
-
 a basic webhook code goes like this :
 
 
