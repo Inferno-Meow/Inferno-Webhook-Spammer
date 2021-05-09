@@ -1,6 +1,5 @@
 import requests
 import colorama
-import asyncio
 from colorama import Fore, Back, Style
 
 #imported colorama just to make the code fancier
